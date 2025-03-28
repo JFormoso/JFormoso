@@ -20,7 +20,7 @@ I'm passionate about collaborative learning and actively participate in communit
 ### Dónde encontrarme / Where to find me 🌍
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesica-formoso-16ab4649/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JesiFormoso)
-[![website Badge](https://img.shields.io/badge/Netlify-5D3FD3?style=for-the-badge&logo=netlify&logoColor=white)](https://jformoso.github.io/)
+[![GitHub Pages](https://img.shields.io/badge/view%20site-GitHub%20Pages-blue?logo=github)](https://jformoso.github.io/)
 
 
 
